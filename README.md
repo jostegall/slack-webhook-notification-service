@@ -1,4 +1,4 @@
-# GitHub to Slack Notifier
+# Slack Webhook Notification Service
 
 Real-time GitHub event notifications delivered to Slack with rich formatting and secure webhook verification.
 
@@ -50,7 +50,7 @@ Add dark mode feature
 
 **1. Clone and install**
 ```bash
-git clone https://github.com/yourusername/github-slack-notifier.git
+git clone https://github.com/yourusername/slack-webhook-notification-service.git
 cd github-slack-notifier
 npm install
 ```
@@ -105,7 +105,7 @@ GitHub Event → Webhook POST → Verify Signature → Parse Event → Format Me
 
 ## Project Structure
 ```
-github-slack-notifier/
+slack-webhook-notification-service/
 ├── routes/
 │   └── webhook.js          # Webhook handler & signature verification
 ├── services/
