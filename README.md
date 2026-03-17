@@ -172,7 +172,7 @@ Railway Dashboard → Your Service → Logs
 
 ## Author
 
-**Your Name**
+**Joseph Stegall**
 
 - GitHub: [@jostegall](https://github.com/jostegall)
 - LinkedIn: [Joseph Stegall](https://www.linkedin.com/in/josteg/)
